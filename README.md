@@ -1,6 +1,6 @@
 # CPP-Modules-42
 
-Introduction in C++
+Introduction in C++ by Ecole 42
 
 # About
 
